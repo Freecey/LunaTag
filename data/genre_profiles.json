@@ -1,0 +1,184 @@
+{
+  "electronic": {
+    "bpm_range": [120, 150],
+    "energy_range": [0.6, 1.0],
+    "spectral_range": [3000, 8000],
+    "moods": ["energetic", "intense", "chill", "euphoric"],
+    "keywords": ["electronic", "edm", "dance", "club"]
+  },
+  "house": {
+    "bpm_range": [115, 130],
+    "energy_range": [0.5, 0.9],
+    "spectral_range": [4000, 10000],
+    "moods": ["chill", "groovy", "euphoric"],
+    "keywords": ["house", "deep house", "progressive house", "tech house"]
+  },
+  "techno": {
+    "bpm_range": [125, 150],
+    "energy_range": [0.7, 1.0],
+    "spectral_range": [2000, 6000],
+    "moods": ["intense", "dark", "hypnotic", "aggressive"],
+    "keywords": ["techno", "industrial", "minimal techno"]
+  },
+  "dubstep": {
+    "bpm_range": [138, 142],
+    "energy_range": [0.7, 1.0],
+    "spectral_range": [3000, 7000],
+    "moods": ["dark", "aggressive", "intense"],
+    "keywords": ["dubstep", "brostep", "bass music"]
+  },
+  "hip_hop": {
+    "bpm_range": [80, 120],
+    "energy_range": [0.4, 0.8],
+    "spectral_range": [2000, 6000],
+    "moods": ["cool", "chill", "confident", "moody"],
+    "keywords": ["hip-hop", "rap", "boom bap", "old school"]
+  },
+  "trap": {
+    "bpm_range": [130, 160],
+    "energy_range": [0.6, 1.0],
+    "spectral_range": [3000, 8000],
+    "moods": ["aggressive", "intense", "dark", "energetic"],
+    "keywords": ["trap", "drill", "808", "atlanta trap"]
+  },
+  "rock": {
+    "bpm_range": [100, 140],
+    "energy_range": [0.5, 0.9],
+    "spectral_range": [3000, 7000],
+    "moods": ["energetic", "intense", "raw", "aggressive"],
+    "keywords": ["rock", "alternative", "indie rock", "garage rock"]
+  },
+  "metal": {
+    "bpm_range": [100, 180],
+    "energy_range": [0.7, 1.0],
+    "spectral_range": [4000, 10000],
+    "moods": ["aggressive", "intense", "dark", "energetic"],
+    "keywords": ["metal", "death metal", "black metal", "doom metal"]
+  },
+  "punk": {
+    "bpm_range": [140, 180],
+    "energy_range": [0.7, 1.0],
+    "spectral_range": [4000, 8000],
+    "moods": ["aggressive", "energetic", "raw", "intense"],
+    "keywords": ["punk", "hardcore", "post-punk", "new wave"]
+  },
+  "jazz": {
+    "bpm_range": [60, 140],
+    "energy_range": [0.2, 0.6],
+    "spectral_range": [2000, 5000],
+    "moods": ["chill", "sophisticated", "smooth", "uplifting"],
+    "keywords": ["jazz", "bebop", "swing", "jazz fusion"]
+  },
+  "blues": {
+    "bpm_range": [60, 120],
+    "energy_range": [0.2, 0.5],
+    "spectral_range": [2000, 5000],
+    "moods": ["melancholic", "soulful", "moody", "romantic"],
+    "keywords": ["blues", "delta blues", "electric blues"]
+  },
+  "soul": {
+    "bpm_range": [70, 120],
+    "energy_range": [0.3, 0.7],
+    "spectral_range": [2000, 6000],
+    "moods": ["smooth", "soulful", "uplifting", "romantic"],
+    "keywords": ["soul", "funk", "r&b", "motown"]
+  },
+  "funk": {
+    "bpm_range": [100, 130],
+    "energy_range": [0.4, 0.8],
+    "spectral_range": [3000, 7000],
+    "moods": ["groovy", "energetic", "happy", "funky"],
+    "keywords": ["funk", "p funk", "funk rock"]
+  },
+  "rnb": {
+    "bpm_range": [60, 110],
+    "energy_range": [0.3, 0.6],
+    "spectral_range": [2000, 6000],
+    "moods": ["smooth", "soulful", "romantic", "chill"],
+    "keywords": ["r&b", "quiet storm", "contemporary r&b"]
+  },
+  "pop": {
+    "bpm_range": [100, 130],
+    "energy_range": [0.4, 0.8],
+    "spectral_range": [3000, 8000],
+    "moods": ["happy", "catchy", "uplifting", "euphoric"],
+    "keywords": ["pop", "mainstream", "chart", "top 40"]
+  },
+  "dance": {
+    "bpm_range": [120, 140],
+    "energy_range": [0.6, 1.0],
+    "spectral_range": [4000, 10000],
+    "moods": ["energetic", "euphoric", "happy", "intense"],
+    "keywords": ["dance", "disco", "electro", "dance pop"]
+  },
+  "ambient": {
+    "bpm_range": [60, 100],
+    "energy_range": [0.1, 0.4],
+    "spectral_range": [1000, 4000],
+    "moods": ["chill", "dreamy", "melancholic", "peaceful"],
+    "keywords": ["ambient", "atmospheric", "experimental", "soundscape"]
+  },
+  "classical": {
+    "bpm_range": [40, 180],
+    "energy_range": [0.2, 0.7],
+    "spectral_range": [1000, 6000],
+    "moods": ["sophisticated", "emotional", "peaceful", "melancholic"],
+    "keywords": ["classical", "orchestral", "chamber music", "baroque"]
+  },
+  "lofi": {
+    "bpm_range": [70, 100],
+    "energy_range": [0.2, 0.5],
+    "spectral_range": [2000, 5000],
+    "moods": ["chill", "relaxing", "melancholic", "nostalgic"],
+    "keywords": ["lofi", "chillhop", "beats", "study beats"]
+  },
+  "chillhop": {
+    "bpm_range": [75, 105],
+    "energy_range": [0.2, 0.5],
+    "spectral_range": [2000, 5000],
+    "moods": ["chill", "relaxing", "moody", "dreamy"],
+    "keywords": ["chillhop", "lofi hip hop", "jazz rap"]
+  },
+  "indie": {
+    "bpm_range": [90, 130],
+    "energy_range": [0.3, 0.7],
+    "spectral_range": [3000, 7000],
+    "moods": ["dreamy", "chill", "moody", "intimate"],
+    "keywords": ["indie", "indie rock", "indie pop", "alternative"]
+  },
+  "soundtrack": {
+    "bpm_range": [40, 180],
+    "energy_range": [0.2, 0.8],
+    "spectral_range": [1000, 8000],
+    "moods": ["dramatic", "emotional", "intense", "peaceful"],
+    "keywords": ["soundtrack", "score", "film score", "cinematic"]
+  },
+  "world": {
+    "bpm_range": [60, 160],
+    "energy_range": [0.3, 0.8],
+    "spectral_range": [2000, 7000],
+    "moods": ["uplifting", "energetic", "traditional", "fusion"],
+    "keywords": ["world", "afrobeats", "latin", "reggae", "celtic"]
+  },
+  "reggae": {
+    "bpm_range": [60, 90],
+    "energy_range": [0.3, 0.6],
+    "spectral_range": [2000, 5000],
+    "moods": ["chill", "uplifting", "peaceful", "moody"],
+    "keywords": ["reggae", "dancehall", "dub", "roots reggae"]
+  },
+  "country": {
+    "bpm_range": [80, 140],
+    "energy_range": [0.3, 0.7],
+    "spectral_range": [2000, 6000],
+    "moods": ["uplifting", "nostalgic", "heartwarming", "raw"],
+    "keywords": ["country", "americana", "country rock", "alt-country"]
+  },
+  "acoustic": {
+    "bpm_range": [60, 140],
+    "energy_range": [0.2, 0.6],
+    "spectral_range": [2000, 5000],
+    "moods": ["peaceful", "intimate", "nostalgic", "chill"],
+    "keywords": ["acoustic", "unplugged", "folk", "singer-songwriter"]
+  }
+}
